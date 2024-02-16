@@ -1,7 +1,10 @@
-title: "Sam Wong"
+title: "sam scribbles"
 email: samshuwong@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Sam's sandbox for technical projects!
+description: >- # This means to ignore newlines until "baseurl:"
+  I'm a new technologist who is keen on culture, comedy, and creativity. Detaching my systematic Substack self from my poetic philosophical persona. An alliteration advocate.
+
+  I like when small talk grows into big talk, deep talk, and long talk.
+
 baseurl: "/" 
 url: "https://thesamwong.github.io" 
 twitter_username: hipsterwam
